@@ -1,1 +1,1 @@
-import.function.imshow()
+import.function.imshow(X, resize=None)
