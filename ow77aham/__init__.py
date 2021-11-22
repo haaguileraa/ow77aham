@@ -1,1 +1,1 @@
-import function.imshow(X, resize=None)
+from .function import *
